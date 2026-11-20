@@ -8,6 +8,8 @@
 
 B 站直播弹幕悬浮窗，给 Linux 用的（PySide6 + Qt6）。
 
+![截图](docs/screenshot.png)
+
 ## 功能
 
 - 直播弹幕滚动显示
@@ -125,6 +127,8 @@ MIT
 ## English
 
 A floating window for Bilibili live chat, made for Linux (PySide6 + Qt6).
+
+![Screenshot](docs/screenshot.png)
 
 ## Features
 
